@@ -1,17 +1,17 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "<Dragon Ball Z Abridged Mangaize>",
+  "description": "<The hilarious Dragon Ball Z Abridged, created by Team Four Star, has now been turned into a manga by a fan.>",
+  "artist": "<Akira Toriyama>",
+  "author": "<Akira Toriyama and DBZA done by team four star>",
+  "cover": "<https://imgur.com/a/VCWRfVY.jpg>",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "<1>": {
+      "title": "<Monkey brother,Monkey trouble>",
+      "volume": "<1>",
       "groups": {
-        "<group name>": "/proxy/api/imgur/chapter/<imgur id>/"
+        "<Solo-GGgoBRO>": "/proxy/api/imgur/chapter/<y5potwr>/"
       },
       "last_updated": "1616368746"
-    },
+    }
   }
 }

@@ -14,13 +14,11 @@
       }
     },
     "2": {
-      "title": "Monkey, dino teamup",
+      "title": "Monkey, Dino Teamup",
       "volume": "1",
       "last_updated": "1734855465",
       "groups": {
-        "GGgoBRO": [
-          "https://imgur.com/a/dfnYofa"
-        ]
+        "GGgoBRO": "/proxy/api/imgur/chapter/dfnYofa/"
       }
     }
   }

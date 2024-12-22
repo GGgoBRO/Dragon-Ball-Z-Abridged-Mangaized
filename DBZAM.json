@@ -12,6 +12,16 @@
       "groups": {
         "Solo-GGgoBRO": "/proxy/api/imgur/chapter/y5potwr/"
       }
+    },
+    "2": {
+      "title": "DBZAM: ch2",
+      "volume": "1",
+      "last_updated": "1734855465",
+      "groups": {
+        "GGgoBRO": [
+          "https://imgur.com/a/dfnYofa"
+        ]
+      }
     }
   }
 }

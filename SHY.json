@@ -4,5 +4,16 @@
   "artist": "Bukimi Miki",
   "author": "Bukimi Miki",
   "cover": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/SHYVolume1.jpg/250px-SHYVolume1.jpg",
-  "chapters": {}
+  "chapters": {
+    "293": {
+      "title": "293",
+      "volume": "",
+      "last_updated": "1763627035",
+      "groups": {
+        "": [
+          "https://catbox.moe/c/jekia1"
+        ]
+      }
+    }
+  }
 }
